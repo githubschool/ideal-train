@@ -2,6 +2,7 @@
 
 ### Places to Eat
 - City Tacos
+- Sublime
 
 ### Places to Visit
 - Balboa Park
