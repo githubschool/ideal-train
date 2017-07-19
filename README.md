@@ -1,17 +1,8 @@
 # GitHub for Developers
 
 - Class Date: July 19 - 20, 2017
-- Facilitators:
+- Facilitator:
   - @hollenberry :microphone:
-  - @ :speech_balloon:
-
-## Talk to Us!!
-
-If you have a question, or need assistance during class, **please create an issue and mention @**.
-
-## Give Us Feedback
-
-Please take a moment to complete the class survey at: null.
 
 ## Scripts for Adding Files
 
