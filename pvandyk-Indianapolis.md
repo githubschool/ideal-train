@@ -5,6 +5,7 @@
 - Big Lug
 - Bakersfield
 - City Market
+- St. Elmos
 
 ### Places to Visit
 - Canal
@@ -12,3 +13,4 @@
 - City Market
 
 ### Places to Avoid
+- Swimming in Canal (ask Pat McAfee)
