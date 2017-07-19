@@ -5,6 +5,7 @@
 
 #### Places to Avoid
 - Jail
+- Superjail
 
 ## Places to Visit
 - Eagle Creek
