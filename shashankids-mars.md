@@ -3,6 +3,7 @@
 ### Place to Eat
 - Osha
 	- Thai
+	- Drinks too
 
 ### Place to Visit
 - Golden Gate
