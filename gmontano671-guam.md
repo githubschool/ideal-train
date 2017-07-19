@@ -10,3 +10,4 @@
 
 ### Places to Avoid
 - Yona Village
+- Public Bathrooms
