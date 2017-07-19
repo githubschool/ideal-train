@@ -1,7 +1,11 @@
 # Mars
 
-### Places to Eat
+### Place to Eat
+- Osha
+	- Thai
 
-### Places to Visit
+### Place to Visit
+- Golden Gate
 
-### Places to Avoid
+### Place to Avoid
+- 24th Street
